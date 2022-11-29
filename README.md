@@ -1,6 +1,8 @@
 # remesh-ref
 A collection of papers, acrticles, etc. related to remesh.
 
+
+- [Elicitation Inference Optimization for Multi-Principal-Agent Alignment](https://openreview.net/pdf?id=tkxnRPkb_H). Andrew Konya, Yeping Lina Qiu, Michael P Varga, and Aviv Ovadya. NeurIPS 2022 Foundation Models for Decision Making Workshop, (2022)
 - [Faster peace via inclusivity: An efficient paradigm to understand populations in conflict zones](https://aiforsocialgood.github.io/neurips2019/accepted/track1/pdfs/105_aisg_neurips2019.pdf). Jordan Bilich, Michael Varga, Daanish Masood, and Andrew Konya. AI for Social Good workshop at NeurIPS, (2019)
 - [Using Artificial Intelligence for Peacebuilding](https://journals.sagepub.com/doi/abs/10.1177/15423166221102757). Masood Alavi, D., Wählisch, M., Irwin, C., & Konya, A.  Journal of Peacebuilding & Development, 17(2), 239–243, (2022)
 - [Using Artificial Intelligence in Peacemaking: The Libya Experience](https://peacepolls.etinu.net/peacepolls/documents/009260.pdf). Irwin, C., Masood Alavi, D., Wählisch, M., & Konya, A.  WAPOR 74th Annual Conference, November 2-6, (2021)
