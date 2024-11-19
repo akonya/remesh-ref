@@ -1,6 +1,8 @@
 # remesh-ref
 A collection of papers, acrticles, etc. related to remesh.
 
+- [Chain of Alignment: Integrating Public Will with Expert Intelligence for Language Model Alignment](https://arxiv.org/pdf/2411.10534). Andrew Konya, Aviv Ovadya, Kevin Feng, Quan Ze Chen, Lisa Schirch, Colin Irwin, and Amy X. Zhang. NeurIPS 2024 Pluralistic Alignment Workshop (2024)
+- [Chain of Alignment: Integrating Public Will with Expert Intelligence for Language Model Alignment](https://arxiv.org/pdf/2411.10534). Andrew Konya, Aviv Ovadya, Kevin Feng, Quan Ze Chen, Lisa Schirch, Colin Irwin, and Amy X. Zhang. NeurIPS 2024  (2024)
 - [Deliberative Technology for Alignment](https://arxiv.org/pdf/2312.03893.pdf). Andrew Konya, Deger Turan, Aviv Ovadya, Lina Qui, Daanish Masood, Flynn Devine, Lisa Schirch, Isabella Roberts, and Deliberative Alignment Forum. arXiv:2312.03893 (2023)
 - [Democratic Policy Development using Collective Dialogues and AI.](https://arxiv.org/pdf/2311.02242.pdf) Andrew Konya, Lisa Schirch, Colin Irwin, and Aviv Ovadya. arXiv:2311.02242 (2023).
 - [Elicitation Inference Optimization for Multi-Principal-Agent Alignment](https://openreview.net/pdf?id=tkxnRPkb_H). Andrew Konya, Yeping Lina Qiu, Michael P Varga, and Aviv Ovadya. NeurIPS 2022 Foundation Models for Decision Making Workshop, (2022)
