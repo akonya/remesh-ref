@@ -1,6 +1,8 @@
 # remesh-ref
 A collection of papers, acrticles, etc. related to remesh.
 
+
+- [Using Collective Dialogues and AI to Find Common Ground Between Israeli and Palestinian Peacebuilders](https://arxiv.org/pdf/2503.01769) Andrew Konya, Luke Thorburn, Wasim Almasri, Oded Adomi Leshem, Ariel D. Procaccia, Lisa Schirch, and Michiel A. Bakker. arXiv:2503.01769 (2025)
 - [Chain of Alignment: Integrating Public Will with Expert Intelligence for Language Model Alignment](https://arxiv.org/pdf/2411.10534). Andrew Konya, Aviv Ovadya, Kevin Feng, Quan Ze Chen, Lisa Schirch, Colin Irwin, and Amy X. Zhang. NeurIPS 2024 Pluralistic Alignment Workshop (2024)
 - [Democratic Policy Development using Collective Dialogues and AI.](https://arxiv.org/pdf/2311.02242.pdf) Andrew Konya, Lisa Schirch, Colin Irwin, and Aviv Ovadya. arXiv:2311.02242 (2023).
 - [Deliberative Technology for Alignment](https://arxiv.org/pdf/2312.03893.pdf). Andrew Konya, Deger Turan, Aviv Ovadya, Lina Qui, Daanish Masood, Flynn Devine, Lisa Schirch, Isabella Roberts, and Deliberative Alignment Forum. arXiv:2312.03893 (2023)
